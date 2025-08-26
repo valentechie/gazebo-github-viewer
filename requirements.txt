@@ -1,0 +1,4 @@
+# Core dependencies for the integration
+flask
+requests
+pyyaml

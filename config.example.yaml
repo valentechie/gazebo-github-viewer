@@ -1,0 +1,7 @@
+# Example configuration file for Gazebo GitHub Viewer
+github:
+  repo_url: "https://github.com/valentechie/robot-models"
+  webhook_secret: "your_webhook_secret"
+gazebo:
+  executable_path: "/usr/bin/gazebo"
+  workspace: "/home/user/catkin_ws"

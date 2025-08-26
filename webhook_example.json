@@ -1,0 +1,22 @@
+{
+  "ref": "refs/heads/main",
+  "before": "d5ad7e...",
+  "after": "f6b8c1...",
+  "repository": {
+    "id": 123456,
+    "name": "robot-models",
+    "full_name": "valentechie/robot-models"
+  },
+  "pusher": {
+    "name": "valentechie"
+  },
+  "commits": [
+    {
+      "id": "f6b8c1...",
+      "message": "Update robot model",
+      "added": ["models/robot.urdf"],
+      "modified": ["models/robot.urdf"],
+      "removed": []
+    }
+  ]
+}
